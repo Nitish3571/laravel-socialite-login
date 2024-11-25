@@ -10,3 +10,4 @@ In this Repo we use Laravel socialite login like google, facebook, githhub.
 
 ## OTP Login
 We also use twilio for Phone OTP login.
+![alt text](image.png)
